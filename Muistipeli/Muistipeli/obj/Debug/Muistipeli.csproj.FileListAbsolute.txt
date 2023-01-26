@@ -1,0 +1,14 @@
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe.config
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.pdb
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.AssemblyReference.cache
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.SuggestedBindingRedirects.cache
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Form1.resources
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Properties.Resources.resources
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.GenerateResource.cache
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.CoreCompileInputs.cache
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.exe
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.pdb
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Yksinpeli_vaikea.resources
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Kaksinpeli_helppo.resources
+C:\Users\eerok\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Kaksinpeli_vaikea.resources
